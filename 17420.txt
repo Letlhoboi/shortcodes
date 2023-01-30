@@ -1,0 +1,3 @@
+k.*
+INSERT INTO [dbo].[ozekimessagein]([sender],[receiver],[msg],[senttime],[receivedtime],[operator],[msgtype]) VALUES ('$sender'  ,'$receiver','$msg' ,'$senttime' ,'$receivedtime' ,'$operator','$messagetype')
+SELECT '$sender','17420'
